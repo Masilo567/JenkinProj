@@ -1,3 +1,3 @@
 # JenkinProj
 #hello welcome to Jenkins
-#hope you do enjoy
+#hope you really enjoy your stay
