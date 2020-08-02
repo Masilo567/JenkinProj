@@ -21,7 +21,7 @@ public class testing {
             driver.manage().window().maximize();
 
 
-            driver.get("httpswww.google.com");
+            driver.get("http://www.google.com");
 
 //closing the browser
             driver.close();
