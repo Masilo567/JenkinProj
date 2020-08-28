@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: TestMessageBuilder
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.027 sec <<< FAILURE!
+TestMessageBuilder.testMeaningfulText()  Time elapsed: 0.024 sec  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <Hello Worlds> but was: <Hello World>
+	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:55)
+	at org.junit.jupiter.api.AssertEquals.failNotEqual(AssertEquals.java:195)
+	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:184)
+	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:179)
+	at org.junit.jupiter.api.Assertions.assertEquals(Assertions.java:1124)
+	at TestMessageBuilder.testMeaningfulText(TestMessageBuilder.java:11)
+

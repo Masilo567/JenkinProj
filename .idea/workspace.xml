@@ -20,8 +20,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d74ac6fd-9e77-42f0-9fc7-971144bdc0dd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Automation/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Automation/src/test/java/testing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Automation/src/test/java/MessageBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Automation/src/test/java/TestMessageBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_aventstack_extentreports_3_0_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vimalselvam_cucumber_extentsreport_3_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_cucumber_junit_1_2_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_9_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_bson_3_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_3_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_3_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation/Automation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Automation/Automation.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Automation/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation/src/test/java/testing.java" beforeDir="false" afterPath="$PROJECT_DIR$/Automation/src/test/java/testing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation/target/test-classes/testing.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +61,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/Downloads/apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1fFpwIMr3B7HxyQhrEPQZefOSsL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -46,12 +77,38 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.TestMessageBuilder.testMeaningfulText">
+    <configuration name="TestMessageBuilder.testMeaningfulText" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Automation" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestMessageBuilder" />
+      <option name="METHOD_NAME" value="testMeaningfulText" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMessageBuilder.testNameMkyong" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Automation" />
+      <useClassPathOnly />
+      <extension name="coverage" track_test_folders="true" runner="jacoco" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestMessageBuilder" />
+      <option name="METHOD_NAME" value="testNameMkyong" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/Automation/pom.xml" goal="" />
+      </method>
+    </configuration>
     <configuration name="testing.tesr" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Automation" />
       <option name="PACKAGE_NAME" value="" />
@@ -62,8 +119,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="JUnit.TestMessageBuilder.testNameMkyong" />
+      <item itemvalue="JUnit.testing.tesr" />
+      <item itemvalue="JUnit.TestMessageBuilder.testMeaningfulText" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestMessageBuilder.testMeaningfulText" />
+        <item itemvalue="JUnit.TestMessageBuilder.testNameMkyong" />
         <item itemvalue="JUnit.testing.tesr" />
       </list>
     </recent_temporary>
@@ -91,39 +155,52 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1596051742844">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596626955825">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1596051742844" />
-    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1596051742844">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1596626955825" />
+    <state x="397" y="142" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596555381968">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1596051742844" />
-    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1596051742843">
+    <state x="397" y="142" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1596555381968" />
+    <state x="400" y="95" key="FileChooserDialogImpl" timestamp="1596556786293">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1596051742843" />
-    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1596051742844">
+    <state x="400" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1596556786293" />
+    <state width="1222" height="131" key="GridCell.Tab.0.bottom" timestamp="1598604191412">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1596051742844" />
+    <state width="1222" height="131" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1598604191412" />
+    <state width="1222" height="131" key="GridCell.Tab.0.center" timestamp="1598604191412">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="131" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1598604191412" />
+    <state width="1222" height="131" key="GridCell.Tab.0.left" timestamp="1598604191411">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="131" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1598604191411" />
+    <state width="1222" height="131" key="GridCell.Tab.0.right" timestamp="1598604191412">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="131" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1598604191412" />
     <state x="280" y="102" key="MultipleFileMergeDialog" timestamp="1595825684419">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="280" y="102" key="MultipleFileMergeDialog/0.0.1280.680@0.0.1280.680" timestamp="1595825684419" />
-    <state x="121" y="0" key="SettingsEditor" timestamp="1596050010071">
+    <state x="121" y="0" key="SettingsEditor" timestamp="1596626430914">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1596050010071" />
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1596626430914" />
     <state x="450" y="254" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595825669324">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="450" y="254" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1595825669324" />
-    <state x="85" y="0" key="new project wizard" timestamp="1596050240404">
+    <state x="85" y="0" key="new project wizard" timestamp="1598590545871">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="85" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1596050240404" />
+    <state x="85" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1598590545871" />
   </component>
 </project>
