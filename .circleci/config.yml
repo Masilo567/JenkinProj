@@ -9,7 +9,7 @@ jobs:
     steps:
     #  - cd ui_test_poc # check out the code in the project directory
      # - run: echo "hello world" # run the `echo` command 
-      - run: $CIRCLE_WORKING_DIRECTORY
-      - run: cp -r  /ui_test_poc /home/seluser/project/test
-      - run: cd /home/seluser/project/test
-      - run: behave
+    #- run: $CIRCLE_WORKING_DIRECTORY
+      #- run: cp -r  /ui_test_poc /home/seluser/project/test
+      - run: ls -la
+      #- run: behave
