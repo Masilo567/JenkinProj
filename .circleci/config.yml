@@ -12,6 +12,6 @@ jobs:
     #- run: $CIRCLE_WORKING_DIRECTORY
       #- run: cp -r  /ui_test_poc /home/seluser/project/test
       - run: mkdir -p /home/seluser/project/test && cp -r /ui_test_poc* /home/seluser/project/test 
-      - run: cd test/test
+      - run: cd test/ui_test_poc
       - run: ls -la
       #- run: behave
