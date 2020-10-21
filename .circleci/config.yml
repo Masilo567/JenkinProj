@@ -10,4 +10,5 @@ jobs:
     #  - cd ui_test_poc # check out the code in the project directory
      # - run: echo "hello world" # run the `echo` command 
       - run: cp -r  /ui_test_poc /home/seluser/project
+      - run: cd ui_test_poc
       - run: behave
