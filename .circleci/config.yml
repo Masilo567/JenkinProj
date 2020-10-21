@@ -8,4 +8,5 @@ jobs:
 #           password: $DOCKERHUB_PASSWORD  # context / project UI env-var reference
     steps:
     #  - cd ui_test_poc # check out the code in the project directory
-      - run: echo "hello world" # run the `echo` command  
+     # - run: echo "hello world" # run the `echo` command 
+      - run: behave
