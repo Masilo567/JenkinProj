@@ -11,11 +11,11 @@ jobs:
      # - run: echo "hello world" # run the `echo` command 
     #- run: $CIRCLE_WORKING_DIRECTORY
       #- run: cp -r  /ui_test_poc /home/seluser/project/test
-      - run: mkdir -p /home/seluser/project/test && cp -r /ui_test_poc* /home/seluser/project/test 
-      - run: cd test/ui_test_poc
-      - run: cd /home/seluser/project/test  && pwd
-      - run:
-            command: pwd
-            working_directory: /home/seluser/project/test 
+      - run: mkdir -p /home/seluser/project/test && cp -r /ui_test_poc/* /home/seluser/project 
+      #- run: cd test/ui_test_poc
+      #- run: cd /home/seluser/project/test  && pwd
+#       - run:
+#             command: pwd
+#             working_directory: /home/seluser/project/test 
       - run: behave
       #- run: behave
