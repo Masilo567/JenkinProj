@@ -11,7 +11,7 @@ jobs:
      # - run: echo "hello world" # run the `echo` command 
     #- run: $CIRCLE_WORKING_DIRECTORY
       #- run: cp -r  /ui_test_poc /home/seluser/project/test
-      #- run: mkdir -p /home/seluser/project/test && cp -r /ui_test_poc* /home/seluser/project/test 
+      - run: mkdir -p /home/seluser/project/test && cp -r /ui_test_poc* /home/seluser/project/test 
       - run: cd test/ui_test_poc
       - run:
             command: pwd
