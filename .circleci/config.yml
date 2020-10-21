@@ -11,5 +11,5 @@ jobs:
      # - run: echo "hello world" # run the `echo` command 
       - run: mkdir test
       - run: cp -r  /ui_test_poc /home/seluser/project/test
-      - run: cd home/seluser/project/test
+      - run: cd /home/seluser/project/test
       - run: behave
